@@ -1,2 +1,1 @@
-# CPP-GNUToolChain
-GNU Tool Chain Example
+# CPP-GNUToolChain - Example
